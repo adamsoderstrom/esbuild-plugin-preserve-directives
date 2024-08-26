@@ -1,5 +1,11 @@
 # esbuild-plugin-preserve-directives
 
+## 0.0.11
+
+### Patch Changes
+
+- 2b0b21e: Remove `"type": "module"`
+
 ## 0.0.10
 
 ### Patch Changes
