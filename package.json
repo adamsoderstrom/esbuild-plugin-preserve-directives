@@ -1,11 +1,10 @@
 {
   "name": "@adamsoderstrom/esbuild-plugin-preserve-directives",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "An esbuild plugin to preserve important directives like 'use client' at the top of output files.",
   "author": "adamsoderstrom <adamsoderstrom@me.com>",
   "license": "MIT",
   "main": "./dist/index.js",
-  "type": "module",
   "exports": {
     ".": {
       "require": {
